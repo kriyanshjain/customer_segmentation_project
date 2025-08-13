@@ -6,8 +6,6 @@ The analysis includes comprehensive data exploration, preprocessing, and interac
 
 🎯 Project Objectives
 Perform exploratory data analysis on customer transaction data
-Clean and preprocess large datasets for analysis
-Apply clustering queries to identify customer segments
 Create interactive dashboards for business stakeholders
 Provide actionable insights for marketing and business strategy
 
@@ -28,22 +26,3 @@ Identified 7 distinct customer segments
 Analyzed customer geographical distribution across severa locations
 Created interactive dashboard with 5-6 key visualizations
 Provided actionable insights for customer retention and acquisition strategies
-
-📁 Repository Structure
-├── data/
-│   ├── raw_data/                    # Original dataset files
-│   ├── sql_processed_data/          # SQL query outputs and processed datasets
-│   └── cleaned_data/                # Final cleaned data for analysis
-├── sql_queries/
-│   ├── rfm_analysis/               # RFM segmentation queries
-│   ├── cohort_analysis/            # Customer lifecycle analysis
-│   ├── geographic_analysis/        # State and regional analysis
-│   └── product_category_analysis/  # Product affinity and repurchase analysis
-├── powerbi_dashboard/
-│   ├── sample_video/               # Dashboard demo videos
-│   └── dashboard_screenshots/      # Visual examples of dashboard pages
-├── documentation/
-│   ├── methodology.md              # RFM methodology and approach
-│   ├── data_dictionary.md          # Dataset documentation
-│   └── insights_summary.md         # Key findings and recommendations
-└── README.md
