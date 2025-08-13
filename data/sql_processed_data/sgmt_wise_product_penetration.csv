@@ -1,0 +1,462 @@
+customer_segment,product_category_name_english,unique_customers,total_cust_in_sgmt,penetration_rate,total_revenue,avg_order_value
+"At Risk","bed_bath_table",3142,32227,9.75,447406.500,114.4847748
+"At Risk","sports_leisure",2612,32227,8.11,397134.350,129.6976976
+"At Risk","health_beauty",2434,32227,7.55,423692.660,154.2383182
+"At Risk","furniture_decor",2300,32227,7.14,309636.150,99.6575958
+"At Risk","computers_accessories",1982,32227,6.15,355962.280,146.1257307
+"At Risk","housewares",1852,32227,5.75,224648.000,97.2081350
+"At Risk","cool_stuff",1775,32227,5.51,376403.760,192.7310599
+"At Risk","toys",1684,32227,5.23,248247.580,134.9171630
+"At Risk","watches_gifts",1505,32227,4.67,403001.720,239.7392742
+"At Risk","telephony",1481,32227,4.60,137304.850,82.3664367
+"At Risk","garden_tools",1380,32227,4.28,249811.060,141.6162472
+"At Risk","perfumery",1180,32227,3.66,190401.790,142.5163099
+"At Risk","auto",990,32227,3.07,208949.090,178.4364560
+"At Risk","baby",930,32227,2.89,141766.550,138.9868137
+"At Risk","fashion_bags_accessories",677,32227,2.10,71973.240,89.5189552
+"At Risk","stationery",588,32227,1.82,71580.410,110.1237077
+"At Risk",NULL,570,32227,1.77,97304.460,140.2081556
+"At Risk","office_furniture",539,32227,1.67,148219.120,193.4975457
+"At Risk","pet_shop",536,32227,1.66,85276.550,131.5996142
+"At Risk","electronics",507,32227,1.57,53057.470,92.4346167
+"At Risk","luggage_accessories",473,32227,1.47,84286.910,154.9391728
+"At Risk","consoles_games",475,32227,1.47,80815.660,152.7706238
+"At Risk","small_appliances",238,32227,0.74,88967.860,342.1840769
+"At Risk","home_confort",195,32227,0.61,38147.300,158.9470833
+"At Risk","musical_instruments",172,32227,0.53,76810.250,365.7630952
+"At Risk","market_place",155,32227,0.48,21856.340,120.7532597
+"At Risk","furniture_living_room",155,32227,0.48,35173.840,169.9219324
+"At Risk","home_appliances",155,32227,0.48,18798.390,117.4899375
+"At Risk","books_general_interest",152,32227,0.47,17720.040,106.7472289
+"At Risk","fashion_shoes",138,32227,0.43,15421.310,95.1932716
+"At Risk","audio",120,32227,0.37,15097.600,114.3757576
+"At Risk","fixed_telephony",112,32227,0.35,29088.210,204.8465493
+"At Risk","computers",99,32227,0.31,158525.890,1378.4860000
+"At Risk","air_conditioning",97,32227,0.30,27048.330,223.5399174
+"At Risk","kitchen_dining_laundry_garden_furniture",77,32227,0.24,16043.050,180.2589888
+"At Risk","food",77,32227,0.24,7751.320,80.7429167
+"At Risk","food_drink",67,32227,0.21,7062.150,83.0841176
+"At Risk","fashion_male_clothing",64,32227,0.20,8590.480,93.3747826
+"At Risk","home_appliances_2",62,32227,0.19,21758.530,282.5783117
+"At Risk","home_construction",59,32227,0.18,15649.650,203.2422078
+"At Risk","construction_tools_construction",58,32227,0.18,12782.960,159.7870000
+"At Risk","fashion_underwear_beach",56,32227,0.17,6264.640,85.8169863
+"At Risk","tablets_printing_image",49,32227,0.15,6759.970,122.9085455
+"At Risk","costruction_tools_garden",48,32227,0.15,7960.320,132.6720000
+"At Risk","books_technical",34,32227,0.11,4965.030,141.8580000
+"At Risk","agro_industry_and_commerce",31,32227,0.10,17215.830,506.3479412
+"At Risk","dvds_blu_ray",31,32227,0.10,3913.410,115.1002941
+"At Risk","furniture_bedroom",30,32227,0.09,9531.720,280.3447059
+"At Risk","signaling_and_security",29,32227,0.09,4392.220,122.0061111
+"At Risk","drinks",30,32227,0.09,2515.860,71.8817143
+"At Risk","art",25,32227,0.08,9355.770,346.5100000
+"At Risk","industry_commerce_and_business",25,32227,0.08,7730.220,309.2088000
+"At Risk","construction_tools_safety",25,32227,0.08,6861.780,221.3477419
+"At Risk","christmas_supplies",26,32227,0.08,2474.200,72.7705882
+"At Risk","fashio_female_clothing",24,32227,0.07,2201.070,88.0428000
+"At Risk","fashion_sport",19,32227,0.06,2110.510,95.9322727
+"At Risk","costruction_tools_tools",13,32227,0.04,3815.970,272.5692857
+"At Risk","home_comfort_2",14,32227,0.04,826.530,45.9183333
+"At Risk","construction_tools_lights",10,32227,0.03,2959.290,269.0263636
+"At Risk","music",9,32227,0.03,1693.040,188.1155556
+"At Risk","cds_dvds_musicals",10,32227,0.03,762.470,63.5391667
+"At Risk","furniture_mattress_and_upholstery",7,32227,0.02,1895.370,210.5966667
+"At Risk","la_cuisine",7,32227,0.02,1311.120,145.6800000
+"At Risk","party_supplies",6,32227,0.02,854.470,122.0671429
+"At Risk","flowers",6,32227,0.02,269.290,44.8816667
+"At Risk","books_imported",7,32227,0.02,749.450,74.9450000
+"At Risk","cine_photo",7,32227,0.02,676.010,96.5728571
+"At Risk",NULL,4,32227,0.01,729.130,145.8260000
+"At Risk","fashion_childrens_clothes",4,32227,0.01,404.630,101.1575000
+"At Risk","security_and_services",2,32227,0.01,324.510,162.2550000
+"At Risk","small_appliances_home_oven_and_coffee",3,32227,0.01,795.870,265.2900000
+"At Risk","diapers_and_hygiene",1,32227,0.00,150.990,150.9900000
+"At Risk","arts_and_craftmanship",1,32227,0.00,29.660,29.6600000
+"Cannot Lose Them","bed_bath_table",320,2830,11.31,28304.390,76.4983514
+"Cannot Lose Them","health_beauty",252,2830,8.90,20591.110,73.0181206
+"Cannot Lose Them","sports_leisure",238,2830,8.41,17249.220,65.8367176
+"Cannot Lose Them","furniture_decor",211,2830,7.46,16055.360,61.9898069
+"Cannot Lose Them","garden_tools",207,2830,7.31,16793.260,71.1578814
+"Cannot Lose Them","toys",196,2830,6.93,16639.830,81.9696059
+"Cannot Lose Them","telephony",188,2830,6.64,9163.070,43.6336667
+"Cannot Lose Them","housewares",161,2830,5.69,11358.300,59.4675393
+"Cannot Lose Them","computers_accessories",151,2830,5.34,10346.490,63.4753988
+"Cannot Lose Them","perfumery",119,2830,4.20,8355.610,66.8448800
+"Cannot Lose Them","fashion_bags_accessories",105,2830,3.71,6742.300,50.3156716
+"Cannot Lose Them","electronics",101,2830,3.57,4456.000,39.0877193
+"Cannot Lose Them","auto",94,2830,3.32,6473.820,61.6554286
+"Cannot Lose Them","watches_gifts",83,2830,2.93,6130.070,65.9147312
+"Cannot Lose Them","consoles_games",68,2830,2.40,4276.600,58.5835616
+"Cannot Lose Them","baby",56,2830,1.98,4469.000,70.9365079
+"Cannot Lose Them","cool_stuff",50,2830,1.77,4433.740,83.6554717
+"Cannot Lose Them","stationery",50,2830,1.77,3839.400,72.4415094
+"Cannot Lose Them",NULL,45,2830,1.59,2841.070,59.1889583
+"Cannot Lose Them","pet_shop",36,2830,1.27,2843.920,72.9210256
+"Cannot Lose Them","home_appliances",25,2830,0.88,1557.520,45.8094118
+"Cannot Lose Them","books_general_interest",20,2830,0.71,1366.220,62.1009091
+"Cannot Lose Them","home_confort",12,2830,0.42,1041.340,86.7783333
+"Cannot Lose Them","luggage_accessories",12,2830,0.42,992.790,82.7325000
+"Cannot Lose Them","audio",12,2830,0.42,647.460,53.9550000
+"Cannot Lose Them","construction_tools_construction",11,2830,0.39,846.580,60.4700000
+"Cannot Lose Them","small_appliances",11,2830,0.39,794.660,66.2216667
+"Cannot Lose Them","food_drink",10,2830,0.35,683.230,45.5486667
+"Cannot Lose Them","home_construction",9,2830,0.32,825.400,91.7111111
+"Cannot Lose Them","musical_instruments",9,2830,0.32,739.420,82.1577778
+"Cannot Lose Them","drinks",7,2830,0.25,425.220,60.7457143
+"Cannot Lose Them","fashion_shoes",6,2830,0.21,487.910,69.7014286
+"Cannot Lose Them","furniture_living_room",5,2830,0.18,357.560,59.5933333
+"Cannot Lose Them","christmas_supplies",5,2830,0.18,285.550,35.6937500
+"Cannot Lose Them","office_furniture",4,2830,0.14,488.640,122.1600000
+"Cannot Lose Them","tablets_printing_image",4,2830,0.14,334.590,83.6475000
+"Cannot Lose Them","fashion_male_clothing",4,2830,0.14,275.070,68.7675000
+"Cannot Lose Them","air_conditioning",3,2830,0.11,312.340,104.1133333
+"Cannot Lose Them","fashion_underwear_beach",3,2830,0.11,250.440,83.4800000
+"Cannot Lose Them","fixed_telephony",3,2830,0.11,158.920,52.9733333
+"Cannot Lose Them","market_place",3,2830,0.11,125.390,41.7966667
+"Cannot Lose Them","furniture_bedroom",3,2830,0.11,105.720,17.6200000
+"Cannot Lose Them","industry_commerce_and_business",2,2830,0.07,168.850,84.4250000
+"Cannot Lose Them","costruction_tools_tools",2,2830,0.07,161.280,53.7600000
+"Cannot Lose Them","kitchen_dining_laundry_garden_furniture",2,2830,0.07,249.820,83.2733333
+"Cannot Lose Them","food",2,2830,0.07,144.790,72.3950000
+"Cannot Lose Them","books_imported",2,2830,0.07,177.080,88.5400000
+"Cannot Lose Them","costruction_tools_garden",2,2830,0.07,176.430,58.8100000
+"Cannot Lose Them","dvds_blu_ray",2,2830,0.07,91.620,45.8100000
+"Cannot Lose Them","fashio_female_clothing",2,2830,0.07,84.170,42.0850000
+"Cannot Lose Them","home_comfort_2",2,2830,0.07,84.000,28.0000000
+"Cannot Lose Them","music",2,2830,0.07,37.240,18.6200000
+"Cannot Lose Them","home_appliances_2",1,2830,0.04,114.320,114.3200000
+"Cannot Lose Them","flowers",1,2830,0.04,74.070,74.0700000
+"Cannot Lose Them","books_technical",1,2830,0.04,54.300,54.3000000
+"Cannot Lose Them","agro_industry_and_commerce",1,2830,0.04,49.640,49.6400000
+"Cannot Lose Them","construction_tools_safety",1,2830,0.04,41.750,41.7500000
+"Cannot Lose Them","furniture_mattress_and_upholstery",1,2830,0.04,121.690,121.6900000
+Champions,"health_beauty",240,2184,10.99,13472.530,53.6754183
+Champions,"housewares",217,2184,9.94,11519.410,49.0187660
+Champions,"bed_bath_table",197,2184,9.02,12795.980,61.2247847
+Champions,"sports_leisure",152,2184,6.96,8878.450,53.4846386
+Champions,"computers_accessories",146,2184,6.68,7468.530,49.4604636
+Champions,"telephony",127,2184,5.82,5400.610,40.6060902
+Champions,"auto",115,2184,5.27,5974.790,49.3784298
+Champions,"furniture_decor",100,2184,4.58,5852.480,56.2738462
+Champions,"electronics",83,2184,3.80,3118.910,36.2663953
+Champions,"watches_gifts",73,2184,3.34,4809.880,65.8887671
+Champions,"toys",70,2184,3.21,3702.760,52.1515493
+Champions,"baby",65,2184,2.98,3684.060,56.6778462
+Champions,"fashion_bags_accessories",57,2184,2.61,3475.520,60.9740351
+Champions,"garden_tools",50,2184,2.29,3018.850,60.3770000
+Champions,"perfumery",49,2184,2.24,2721.060,54.4212000
+Champions,"stationery",49,2184,2.24,2689.260,50.7407547
+Champions,"pet_shop",38,2184,1.74,2482.160,57.7246512
+Champions,"construction_tools_construction",38,2184,1.74,2260.850,55.1426829
+Champions,"home_appliances",38,2184,1.74,1887.610,47.1902500
+Champions,"food",26,2184,1.19,1532.870,51.0956667
+Champions,"books_technical",23,2184,1.05,1320.410,55.0170833
+Champions,"books_general_interest",21,2184,0.96,1053.760,47.8981818
+Champions,"cool_stuff",19,2184,0.87,1074.570,56.5563158
+Champions,"consoles_games",19,2184,0.87,924.730,48.6700000
+Champions,"musical_instruments",16,2184,0.73,1029.760,64.3600000
+Champions,NULL,14,2184,0.64,711.720,50.8371429
+Champions,"luggage_accessories",13,2184,0.60,765.020,58.8476923
+Champions,"construction_tools_lights",13,2184,0.60,683.110,48.7935714
+Champions,"drinks",12,2184,0.55,548.870,42.2207692
+Champions,"small_appliances",11,2184,0.50,690.500,57.5416667
+Champions,"food_drink",9,2184,0.41,436.700,43.6700000
+Champions,"audio",8,2184,0.37,246.640,27.4044444
+Champions,"kitchen_dining_laundry_garden_furniture",7,2184,0.32,478.060,68.2942857
+Champions,"christmas_supplies",6,2184,0.27,269.620,44.9366667
+Champions,"party_supplies",5,2184,0.23,258.350,43.0583333
+Champions,"agro_industry_and_commerce",5,2184,0.23,254.900,50.9800000
+Champions,"costruction_tools_tools",5,2184,0.23,318.690,63.7380000
+Champions,"home_construction",5,2184,0.23,240.890,48.1780000
+Champions,"market_place",4,2184,0.18,294.130,58.8260000
+Champions,"construction_tools_safety",4,2184,0.18,263.730,65.9325000
+Champions,"furniture_living_room",4,2184,0.18,225.550,56.3875000
+Champions,"cine_photo",4,2184,0.18,189.650,37.9300000
+Champions,"small_appliances_home_oven_and_coffee",4,2184,0.18,216.850,54.2125000
+Champions,"diapers_and_hygiene",4,2184,0.18,209.270,52.3175000
+Champions,"fixed_telephony",4,2184,0.18,145.560,36.3900000
+Champions,"art",3,2184,0.14,189.310,63.1033333
+Champions,"signaling_and_security",3,2184,0.14,178.800,59.6000000
+Champions,"costruction_tools_garden",3,2184,0.14,219.320,54.8300000
+Champions,"fashion_underwear_beach",2,2184,0.09,130.820,65.4100000
+Champions,"dvds_blu_ray",2,2184,0.09,59.330,29.6650000
+Champions,"books_imported",2,2184,0.09,56.760,28.3800000
+Champions,"fashion_male_clothing",1,2184,0.05,83.330,83.3300000
+Champions,"fashion_sport",1,2184,0.05,83.050,83.0500000
+Champions,"home_appliances_2",1,2184,0.05,62.920,31.4600000
+Champions,"fashion_shoes",1,2184,0.05,42.770,42.7700000
+Champions,"air_conditioning",1,2184,0.05,27.400,27.4000000
+Champions,"arts_and_craftmanship",1,2184,0.05,24.690,24.6900000
+Champions,"music",1,2184,0.05,21.690,21.6900000
+"Lost Customers","bed_bath_table",357,2285,15.62,82678.990,117.1090510
+"Lost Customers","furniture_decor",289,2285,12.65,65049.220,112.5419031
+"Lost Customers","sports_leisure",198,2285,8.67,55549.610,171.9802167
+"Lost Customers","health_beauty",194,2285,8.49,61938.710,204.4181848
+"Lost Customers","toys",185,2285,8.10,43954.340,176.5234538
+"Lost Customers","watches_gifts",165,2285,7.22,58080.830,302.5043229
+"Lost Customers","computers_accessories",150,2285,6.56,50552.180,201.4031076
+"Lost Customers","housewares",116,2285,5.08,23920.730,116.6864878
+"Lost Customers","cool_stuff",113,2285,4.95,24501.520,188.4732308
+"Lost Customers","perfumery",101,2285,4.42,24951.230,179.5052518
+"Lost Customers","garden_tools",87,2285,3.81,25011.040,127.6073469
+"Lost Customers","auto",80,2285,3.50,24005.650,242.4813131
+"Lost Customers","telephony",67,2285,2.93,17684.770,198.7052809
+"Lost Customers","baby",59,2285,2.58,12910.850,174.4709459
+"Lost Customers","stationery",55,2285,2.41,10543.430,159.7489394
+"Lost Customers","fashion_bags_accessories",52,2285,2.28,10892.440,101.7985047
+"Lost Customers","pet_shop",37,2285,1.62,8591.960,168.4698039
+"Lost Customers",NULL,37,2285,1.62,6119.840,127.4966667
+"Lost Customers","office_furniture",33,2285,1.44,9357.660,207.9480000
+"Lost Customers","electronics",30,2285,1.31,6852.010,171.3002500
+"Lost Customers","home_confort",28,2285,1.23,5906.760,178.9927273
+"Lost Customers","small_appliances",24,2285,1.05,14793.180,528.3278571
+"Lost Customers","luggage_accessories",24,2285,1.05,5085.230,154.0978788
+"Lost Customers","furniture_living_room",23,2285,1.01,7036.000,195.4444444
+"Lost Customers","home_appliances",21,2285,0.92,6203.180,200.1025806
+"Lost Customers","musical_instruments",21,2285,0.92,11049.150,480.3978261
+"Lost Customers","consoles_games",19,2285,0.83,8053.560,287.6271429
+"Lost Customers","construction_tools_construction",16,2285,0.70,4821.890,283.6405882
+"Lost Customers","home_construction",15,2285,0.66,4135.400,179.8000000
+"Lost Customers","kitchen_dining_laundry_garden_furniture",12,2285,0.53,2825.400,188.3600000
+"Lost Customers","home_appliances_2",11,2285,0.48,4495.650,321.1178571
+"Lost Customers","food_drink",10,2285,0.44,1420.360,118.3633333
+"Lost Customers","air_conditioning",9,2285,0.39,4153.790,377.6172727
+"Lost Customers","food",9,2285,0.39,1886.920,134.7800000
+"Lost Customers","fashion_shoes",9,2285,0.39,1283.240,106.9366667
+"Lost Customers","agro_industry_and_commerce",8,2285,0.35,9143.110,481.2163158
+"Lost Customers","audio",8,2285,0.35,1869.780,186.9780000
+"Lost Customers","fashion_male_clothing",7,2285,0.31,1207.040,120.7040000
+"Lost Customers","market_place",7,2285,0.31,1492.480,124.3733333
+"Lost Customers","fashion_underwear_beach",6,2285,0.26,1007.160,167.8600000
+"Lost Customers","construction_tools_lights",5,2285,0.22,1630.210,326.0420000
+"Lost Customers","fixed_telephony",5,2285,0.22,1147.000,229.4000000
+"Lost Customers","books_technical",5,2285,0.22,963.870,160.6450000
+"Lost Customers","drinks",4,2285,0.18,973.710,121.7137500
+"Lost Customers","art",4,2285,0.18,405.670,57.9528571
+"Lost Customers","christmas_supplies",4,2285,0.18,370.300,92.5750000
+"Lost Customers","computers",3,2285,0.13,4496.300,1124.0750000
+"Lost Customers","costruction_tools_garden",3,2285,0.13,801.070,160.2140000
+"Lost Customers","books_general_interest",3,2285,0.13,717.460,143.4920000
+"Lost Customers","party_supplies",2,2285,0.09,875.850,437.9250000
+"Lost Customers","construction_tools_safety",2,2285,0.09,575.410,191.8033333
+"Lost Customers","furniture_mattress_and_upholstery",2,2285,0.09,439.260,219.6300000
+"Lost Customers","la_cuisine",2,2285,0.09,256.710,128.3550000
+"Lost Customers","cine_photo",1,2285,0.04,259.940,259.9400000
+"Lost Customers","industry_commerce_and_business",1,2285,0.04,207.220,103.6100000
+"Lost Customers","costruction_tools_tools",1,2285,0.04,168.200,168.2000000
+"Lost Customers","signaling_and_security",1,2285,0.04,155.670,51.8900000
+"Lost Customers","tablets_printing_image",1,2285,0.04,108.440,108.4400000
+"Loyal Customers","health_beauty",1429,12345,11.58,113089.920,74.5483982
+"Loyal Customers","bed_bath_table",1219,12345,9.87,101432.990,76.5532000
+"Loyal Customers","housewares",868,12345,7.03,63950.360,66.2012008
+"Loyal Customers","sports_leisure",834,12345,6.76,66573.790,74.1356236
+"Loyal Customers","computers_accessories",800,12345,6.48,59269.190,71.0661751
+"Loyal Customers","furniture_decor",621,12345,5.03,54753.210,76.3643096
+"Loyal Customers","auto",619,12345,5.01,44108.610,67.1363927
+"Loyal Customers","watches_gifts",604,12345,4.89,54514.430,87.5030979
+"Loyal Customers","telephony",595,12345,4.82,29151.860,45.7643014
+"Loyal Customers","electronics",496,12345,4.02,25054.100,47.4509470
+"Loyal Customers","stationery",390,12345,3.16,31320.390,74.9291627
+"Loyal Customers","baby",389,12345,3.15,29596.740,71.6628087
+"Loyal Customers","perfumery",344,12345,2.79,28199.580,75.3999465
+"Loyal Customers","toys",337,12345,2.73,27343.830,76.5933613
+"Loyal Customers","pet_shop",296,12345,2.40,27223.250,85.6077044
+"Loyal Customers","garden_tools",295,12345,2.39,24022.430,73.0165046
+"Loyal Customers","fashion_bags_accessories",239,12345,1.94,16441.530,65.7661200
+"Loyal Customers","cool_stuff",181,12345,1.47,15796.140,83.5774603
+"Loyal Customers","construction_tools_construction",165,12345,1.34,12459.760,68.8384530
+"Loyal Customers","food",151,12345,1.22,11012.230,70.5912179
+"Loyal Customers","consoles_games",107,12345,0.87,7697.730,71.2752778
+"Loyal Customers","home_appliances",105,12345,0.85,6428.770,60.6487736
+"Loyal Customers","luggage_accessories",86,12345,0.70,7359.310,81.7701111
+"Loyal Customers",NULL,86,12345,0.70,5967.890,61.5246392
+"Loyal Customers","home_construction",82,12345,0.66,8334.340,92.6037778
+"Loyal Customers","books_general_interest",80,12345,0.65,5069.300,60.3488095
+"Loyal Customers","drinks",70,12345,0.57,4000.440,54.8005479
+"Loyal Customers","musical_instruments",69,12345,0.56,5325.740,77.1846377
+"Loyal Customers","books_technical",69,12345,0.56,4727.880,67.5411429
+"Loyal Customers","art",65,12345,0.53,6652.710,102.3493846
+"Loyal Customers","furniture_living_room",58,12345,0.47,5621.070,95.2723729
+"Loyal Customers","small_appliances",56,12345,0.45,4385.910,70.7404839
+"Loyal Customers","construction_tools_lights",43,12345,0.35,3485.910,65.7718868
+"Loyal Customers","audio",39,12345,0.32,1926.360,43.7809091
+"Loyal Customers","industry_commerce_and_business",34,12345,0.28,3774.740,107.8497143
+"Loyal Customers","food_drink",33,12345,0.27,2226.440,57.0882051
+"Loyal Customers","costruction_tools_garden",32,12345,0.26,2154.370,59.8436111
+"Loyal Customers","home_confort",30,12345,0.24,2930.250,97.6750000
+"Loyal Customers","signaling_and_security",29,12345,0.23,2480.760,70.8788571
+"Loyal Customers","kitchen_dining_laundry_garden_furniture",29,12345,0.23,2412.720,77.8296774
+"Loyal Customers","office_furniture",25,12345,0.20,2652.700,106.1080000
+"Loyal Customers","construction_tools_safety",24,12345,0.19,2244.080,93.5033333
+"Loyal Customers","christmas_supplies",24,12345,0.19,1565.580,62.6232000
+"Loyal Customers","cine_photo",22,12345,0.18,1666.090,64.0803846
+"Loyal Customers","market_place",20,12345,0.16,1396.570,60.7204348
+"Loyal Customers","air_conditioning",18,12345,0.15,1441.830,75.8857895
+"Loyal Customers","fixed_telephony",15,12345,0.12,1320.390,88.0260000
+"Loyal Customers","agro_industry_and_commerce",15,12345,0.12,1222.070,67.8927778
+"Loyal Customers","costruction_tools_tools",15,12345,0.12,1158.700,72.4187500
+"Loyal Customers","fashion_shoes",13,12345,0.11,1319.740,101.5184615
+"Loyal Customers","small_appliances_home_oven_and_coffee",14,12345,0.11,988.840,70.6314286
+"Loyal Customers","books_imported",13,12345,0.11,843.260,64.8661538
+"Loyal Customers","home_appliances_2",10,12345,0.08,763.980,69.4527273
+"Loyal Customers","fashion_male_clothing",10,12345,0.08,648.780,58.9800000
+"Loyal Customers","party_supplies",9,12345,0.07,672.570,74.7300000
+"Loyal Customers","diapers_and_hygiene",9,12345,0.07,584.990,64.9988889
+"Loyal Customers","music",9,12345,0.07,558.650,62.0722222
+"Loyal Customers",NULL,9,12345,0.07,496.960,49.6960000
+"Loyal Customers","arts_and_craftmanship",8,12345,0.06,364.220,40.4688889
+"Loyal Customers","fashion_underwear_beach",6,12345,0.05,443.760,73.9600000
+"Loyal Customers","tablets_printing_image",6,12345,0.05,402.420,67.0700000
+"Loyal Customers","flowers",6,12345,0.05,267.470,38.2100000
+"Loyal Customers","dvds_blu_ray",5,12345,0.04,361.140,72.2280000
+"Loyal Customers","furniture_bedroom",2,12345,0.02,233.540,116.7700000
+"Loyal Customers","furniture_mattress_and_upholstery",2,12345,0.02,229.380,114.6900000
+"Loyal Customers","fashio_female_clothing",3,12345,0.02,214.220,53.5550000
+"Loyal Customers","home_comfort_2",3,12345,0.02,136.820,27.3640000
+"Loyal Customers","la_cuisine",1,12345,0.01,130.030,130.0300000
+"Loyal Customers","fashion_childrens_clothes",1,12345,0.01,97.480,97.4800000
+"Loyal Customers","fashion_sport",1,12345,0.01,75.070,75.0700000
+"Loyal Customers","computers",1,12345,0.01,52.840,52.8400000
+"New Customers","health_beauty",1707,17902,9.54,282693.820,141.2762719
+"New Customers","bed_bath_table",1658,17902,9.26,245079.730,109.9012242
+"New Customers","sports_leisure",1469,17902,8.21,229860.500,130.0851726
+"New Customers","watches_gifts",1345,17902,7.51,319033.720,208.5187712
+"New Customers","computers_accessories",1315,17902,7.35,219717.180,135.1274170
+"New Customers","furniture_decor",1235,17902,6.90,194176.810,110.2650823
+"New Customers","housewares",1135,17902,6.34,168930.560,114.2194456
+"New Customers","auto",872,17902,4.87,153329.300,156.7784254
+"New Customers","telephony",720,17902,4.02,72490.010,83.6101615
+"New Customers","garden_tools",622,17902,3.47,113791.050,138.6005481
+"New Customers","electronics",590,17902,3.30,43425.220,67.5353344
+"New Customers","baby",578,17902,3.23,135830.840,203.9502102
+"New Customers","toys",557,17902,3.11,86342.000,137.9265176
+"New Customers","cool_stuff",549,17902,3.07,115622.210,185.5894222
+"New Customers","perfumery",473,17902,2.64,67057.030,123.2665993
+"New Customers","stationery",357,17902,1.99,43809.070,102.1190443
+"New Customers","pet_shop",351,17902,1.96,51114.810,121.1251422
+"New Customers","fashion_bags_accessories",314,17902,1.75,39227.220,102.4209399
+"New Customers","office_furniture",262,17902,1.46,77764.220,202.5109896
+"New Customers",NULL,221,17902,1.23,33750.580,132.3552157
+"New Customers","home_appliances",218,17902,1.22,36595.920,140.7535385
+"New Customers","construction_tools_construction",187,17902,1.04,41357.880,157.2542966
+"New Customers","musical_instruments",147,17902,0.82,51545.530,322.1595625
+"New Customers","luggage_accessories",142,17902,0.79,26995.430,159.7362722
+"New Customers","home_construction",133,17902,0.74,29085.930,149.1586154
+"New Customers","small_appliances",121,17902,0.68,40531.890,285.4358451
+"New Customers","consoles_games",118,17902,0.66,24117.650,171.0471631
+"New Customers","books_general_interest",114,17902,0.64,17142.040,125.1243796
+"New Customers","food",101,17902,0.56,6316.170,55.4050000
+"New Customers","industry_commerce_and_business",98,17902,0.55,14591.480,127.9954386
+"New Customers","audio",81,17902,0.45,21485.650,249.8331395
+"New Customers","drinks",80,17902,0.45,10968.020,87.0477778
+"New Customers","construction_tools_lights",78,17902,0.44,14119.890,142.6251515
+"New Customers","books_technical",75,17902,0.42,5353.500,68.6346154
+"New Customers","furniture_living_room",62,17902,0.35,14859.790,176.9022619
+"New Customers","art",63,17902,0.35,6005.960,92.3993846
+"New Customers","home_appliances_2",57,17902,0.32,41449.510,690.8251667
+"New Customers","air_conditioning",55,17902,0.31,9161.850,155.2855932
+"New Customers","home_confort",52,17902,0.29,9792.670,136.0093056
+"New Customers","construction_tools_safety",51,17902,0.28,13895.310,204.3427941
+"New Customers","food_drink",46,17902,0.26,4724.230,78.7371667
+"New Customers","agro_industry_and_commerce",39,17902,0.22,14285.870,255.1048214
+"New Customers","kitchen_dining_laundry_garden_furniture",39,17902,0.22,10107.240,235.0520930
+"New Customers","costruction_tools_garden",40,17902,0.22,5129.240,100.5733333
+"New Customers","signaling_and_security",38,17902,0.21,5375.370,89.5895000
+"New Customers","market_place",38,17902,0.21,3290.530,78.3459524
+"New Customers","fashion_shoes",34,17902,0.19,5358.430,153.0980000
+"New Customers","fixed_telephony",31,17902,0.17,6210.500,167.8513514
+"New Customers","costruction_tools_tools",29,17902,0.16,3812.720,115.5369697
+"New Customers","small_appliances_home_oven_and_coffee",26,17902,0.15,30987.600,1106.7000000
+"New Customers","christmas_supplies",23,17902,0.13,1962.750,72.6944444
+"New Customers","cine_photo",22,17902,0.12,3383.550,140.9812500
+"New Customers","computers",17,17902,0.09,21392.570,855.7028000
+"New Customers","furniture_bedroom",14,17902,0.08,4203.730,233.5405556
+"New Customers","fashion_underwear_beach",14,17902,0.08,987.250,51.9605263
+"New Customers","music",12,17902,0.07,2990.290,230.0223077
+"New Customers","dvds_blu_ray",11,17902,0.06,1557.620,81.9800000
+"New Customers","books_imported",11,17902,0.06,854.580,65.7369231
+"New Customers","diapers_and_hygiene",7,17902,0.04,691.510,43.2193750
+"New Customers","flowers",7,17902,0.04,366.620,52.3742857
+"New Customers","party_supplies",5,17902,0.03,723.050,120.5083333
+"New Customers","arts_and_craftmanship",5,17902,0.03,563.390,80.4842857
+"New Customers","la_cuisine",3,17902,0.02,993.010,248.2525000
+"New Customers","fashio_female_clothing",4,17902,0.02,522.500,47.5000000
+"New Customers","fashion_male_clothing",3,17902,0.02,447.410,149.1366667
+"New Customers","furniture_mattress_and_upholstery",3,17902,0.02,431.930,143.9766667
+"New Customers","tablets_printing_image",4,17902,0.02,414.230,82.8460000
+"New Customers","fashion_sport",3,17902,0.02,241.890,80.6300000
+"New Customers",NULL,2,17902,0.01,2046.410,1023.2050000
+"New Customers","cds_dvds_musicals",1,17902,0.01,117.580,117.5800000
+"New Customers","fashion_childrens_clothes",2,17902,0.01,96.560,48.2800000
+"New Customers","home_comfort_2",1,17902,0.01,18.760,18.7600000
+Others,"health_beauty",2242,23585,9.51,540691.540,203.1911086
+Others,"bed_bath_table",2115,23585,8.97,374880.650,129.1800999
+Others,"computers_accessories",1861,23585,7.89,365470.310,149.9673000
+Others,"sports_leisure",1838,23585,7.79,384680.900,170.5901996
+Others,"watches_gifts",1646,23585,6.98,469759.420,250.8058836
+Others,"furniture_decor",1422,23585,6.03,277600.920,136.6818907
+Others,"housewares",1332,23585,5.65,294530.910,165.0033109
+Others,"auto",999,23585,4.24,253671.250,220.0097572
+Others,"telephony",869,23585,3.68,126566.420,126.5664200
+Others,"cool_stuff",856,23585,3.63,181771.280,193.3737021
+Others,"perfumery",784,23585,3.32,136851.730,150.3865165
+Others,"garden_tools",779,23585,3.30,161384.360,151.1089513
+Others,"stationery",761,23585,3.23,115763.280,129.3444469
+Others,"toys",734,23585,3.11,140500.580,167.4619547
+Others,"baby",706,23585,2.99,163364.290,201.4356227
+Others,"electronics",700,23585,2.97,72632.700,88.3609489
+Others,NULL,413,23585,1.75,64459.220,136.5661441
+Others,"office_furniture",382,23585,1.62,110598.760,209.0713800
+Others,"pet_shop",373,23585,1.58,83333.380,172.1764050
+Others,"fashion_bags_accessories",313,23585,1.33,42752.070,115.5461351
+Others,"luggage_accessories",263,23585,1.12,52995.490,184.6532753
+Others,"construction_tools_construction",257,23585,1.09,90593.840,264.8942690
+Others,"consoles_games",208,23585,0.88,50118.010,207.9585477
+Others,"home_construction",180,23585,0.76,41911.010,184.6300000
+Others,"musical_instruments",173,23585,0.73,76061.960,378.4177114
+Others,"small_appliances",145,23585,0.61,58934.580,359.3571951
+Others,"home_appliances",126,23585,0.53,24251.410,173.2243571
+Others,"furniture_living_room",100,23585,0.42,26844.720,216.4896774
+Others,"books_general_interest",100,23585,0.42,12689.200,112.2938053
+Others,"construction_tools_lights",93,23585,0.39,25379.110,198.2742969
+Others,"home_appliances_2",80,23585,0.34,61288.270,638.4194792
+Others,"agro_industry_and_commerce",77,23585,0.33,46466.580,411.2086726
+Others,"audio",79,23585,0.33,17013.050,200.1535294
+Others,"drinks",79,23585,0.33,7966.330,75.8698095
+Others,"kitchen_dining_laundry_garden_furniture",75,23585,0.32,27747.010,269.3884466
+Others,"home_confort",74,23585,0.31,15202.470,183.1622892
+Others,"industry_commerce_and_business",70,23585,0.30,20065.080,222.9453333
+Others,"food",70,23585,0.30,8135.930,78.9896117
+Others,"air_conditioning",61,23585,0.26,18745.700,234.3212500
+Others,"costruction_tools_garden",59,23585,0.25,14494.680,181.1835000
+Others,"computers",56,23585,0.24,64457.140,907.8470423
+Others,"construction_tools_safety",51,23585,0.22,19775.120,353.1271429
+Others,"market_place",46,23585,0.20,5914.490,100.2455932
+Others,"books_technical",48,23585,0.20,5744.870,110.4782692
+Others,"food_drink",44,23585,0.19,4166.150,71.8301724
+Others,"fixed_telephony",42,23585,0.18,22567.040,410.3098182
+Others,"signaling_and_security",37,23585,0.16,15313.550,246.9927419
+Others,"furniture_bedroom",37,23585,0.16,12073.370,204.6333898
+Others,"christmas_supplies",37,23585,0.16,5050.470,105.2181250
+Others,"art",35,23585,0.15,5541.290,138.5322500
+Others,"costruction_tools_tools",32,23585,0.14,8719.860,264.2381818
+Others,"fashion_shoes",33,23585,0.14,5122.870,131.3556410
+Others,"fashion_underwear_beach",30,23585,0.13,3037.270,97.9764516
+Others,"small_appliances_home_oven_and_coffee",25,23585,0.11,17893.540,688.2130769
+Others,"furniture_mattress_and_upholstery",22,23585,0.09,3337.110,145.0917391
+Others,"books_imported",14,23585,0.06,2721.240,143.2231579
+Others,"fashion_male_clothing",15,23585,0.06,2286.820,134.5188235
+Others,"tablets_printing_image",15,23585,0.06,1121.030,70.0643750
+Others,"party_supplies",11,23585,0.05,2224.370,148.2913333
+Others,"flowers",9,23585,0.04,621.460,51.7883333
+Others,"cine_photo",7,23585,0.03,1746.230,218.2787500
+Others,"arts_and_craftmanship",6,23585,0.03,1202.180,200.3633333
+Others,"music",5,23585,0.02,1672.680,278.7800000
+Others,"dvds_blu_ray",4,23585,0.02,343.050,68.6100000
+Others,NULL,2,23585,0.01,1684.680,842.3400000
+Others,NULL,3,23585,0.01,846.040,211.5100000
+Others,"diapers_and_hygiene",3,23585,0.01,409.430,58.4900000
+Others,"fashio_female_clothing",3,23585,0.01,196.480,65.4933333
+Others,"fashion_sport",2,23585,0.01,147.030,73.5150000
+Others,"home_comfort_2",3,23585,0.01,128.330,32.0825000
+Others,"cds_dvds_musicals",1,23585,0.00,74.940,74.9400000

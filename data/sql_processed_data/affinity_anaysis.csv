@@ -1,0 +1,450 @@
+customer_segment,product_category_name_english,segment_penetration,overall_penetration,affinity_index
+"At Risk","cool_stuff",5.51,3.80,1.71
+"At Risk","toys",5.23,4.03,1.19
+"At Risk","garden_tools",4.28,3.66,0.62
+"At Risk","furniture_decor",7.14,6.62,0.52
+"At Risk","perfumery",3.66,3.27,0.39
+"At Risk","consoles_games",1.47,1.09,0.39
+"At Risk","luggage_accessories",1.47,1.09,0.38
+"At Risk","office_furniture",1.67,1.33,0.34
+"At Risk","telephony",4.60,4.33,0.26
+"At Risk","sports_leisure",8.11,7.86,0.24
+"At Risk","fashion_bags_accessories",2.10,1.88,0.22
+"At Risk","home_confort",0.61,0.42,0.19
+"At Risk","market_place",0.48,0.29,0.19
+"At Risk","fashion_shoes",0.43,0.25,0.18
+"At Risk","computers",0.31,0.19,0.12
+"At Risk","fixed_telephony",0.35,0.23,0.12
+"At Risk","bed_bath_table",9.75,9.65,0.10
+"At Risk","fashion_male_clothing",0.20,0.11,0.09
+"At Risk","small_appliances",0.74,0.65,0.09
+"At Risk","tablets_printing_image",0.15,0.08,0.07
+"At Risk","fashion_underwear_beach",0.17,0.13,0.05
+"At Risk","furniture_living_room",0.48,0.44,0.05
+"At Risk","air_conditioning",0.30,0.26,0.04
+"At Risk","dvds_blu_ray",0.10,0.06,0.04
+"At Risk","fashio_female_clothing",0.07,0.04,0.04
+"At Risk","fashion_sport",0.06,0.03,0.03
+"At Risk","cds_dvds_musicals",0.03,0.01,0.02
+"At Risk","home_comfort_2",0.04,0.02,0.02
+"At Risk","la_cuisine",0.02,0.01,0.01
+"At Risk","audio",0.37,0.37,0.00
+"At Risk","fashion_childrens_clothes",0.01,0.01,0.00
+"At Risk","security_and_services",0.01,0.00,0.00
+"At Risk","furniture_bedroom",0.09,0.09,0.00
+"At Risk","music",0.03,0.04,-0.01
+"At Risk","flowers",0.02,0.03,-0.01
+"At Risk","arts_and_craftmanship",0.00,0.02,-0.02
+"At Risk","kitchen_dining_laundry_garden_furniture",0.24,0.26,-0.02
+"At Risk","diapers_and_hygiene",0.00,0.03,-0.02
+"At Risk","party_supplies",0.02,0.04,-0.02
+"At Risk","furniture_mattress_and_upholstery",0.02,0.04,-0.02
+"At Risk","books_imported",0.02,0.05,-0.03
+"At Risk","food_drink",0.21,0.23,-0.03
+"At Risk","costruction_tools_garden",0.15,0.20,-0.05
+"At Risk","home_appliances_2",0.19,0.24,-0.05
+"At Risk","christmas_supplies",0.08,0.13,-0.05
+"At Risk","books_general_interest",0.47,0.52,-0.05
+"At Risk","cine_photo",0.02,0.07,-0.05
+"At Risk","costruction_tools_tools",0.04,0.10,-0.06
+"At Risk","signaling_and_security",0.09,0.15,-0.06
+"At Risk","small_appliances_home_oven_and_coffee",0.01,0.08,-0.07
+"At Risk","construction_tools_safety",0.08,0.17,-0.09
+"At Risk","agro_industry_and_commerce",0.10,0.19,-0.09
+"At Risk","baby",2.89,2.98,-0.10
+"At Risk","pet_shop",1.66,1.79,-0.12
+"At Risk","musical_instruments",0.53,0.65,-0.12
+"At Risk","art",0.08,0.21,-0.13
+"At Risk","industry_commerce_and_business",0.08,0.25,-0.17
+"At Risk","books_technical",0.11,0.27,-0.17
+"At Risk","drinks",0.09,0.30,-0.21
+"At Risk","construction_tools_lights",0.03,0.26,-0.23
+"At Risk","food",0.24,0.47,-0.23
+"At Risk","home_appliances",0.48,0.74,-0.26
+"At Risk","home_construction",0.18,0.52,-0.33
+"At Risk","housewares",5.75,6.09,-0.34
+"At Risk","stationery",1.82,2.41,-0.59
+"At Risk","construction_tools_construction",0.18,0.78,-0.60
+"At Risk","computers_accessories",6.15,6.86,-0.71
+"At Risk","auto",3.07,4.04,-0.97
+"At Risk","electronics",1.57,2.69,-1.11
+"At Risk","watches_gifts",4.67,5.81,-1.14
+"At Risk","health_beauty",7.55,9.10,-1.55
+"Cannot Lose Them","garden_tools",7.31,3.66,3.65
+"Cannot Lose Them","toys",6.93,4.03,2.90
+"Cannot Lose Them","telephony",6.64,4.33,2.31
+"Cannot Lose Them","fashion_bags_accessories",3.71,1.88,1.83
+"Cannot Lose Them","bed_bath_table",11.31,9.65,1.66
+"Cannot Lose Them","consoles_games",2.40,1.09,1.32
+"Cannot Lose Them","perfumery",4.20,3.27,0.94
+"Cannot Lose Them","electronics",3.57,2.69,0.88
+"Cannot Lose Them","furniture_decor",7.46,6.62,0.84
+"Cannot Lose Them","sports_leisure",8.41,7.86,0.55
+"Cannot Lose Them","books_general_interest",0.71,0.52,0.18
+"Cannot Lose Them","home_appliances",0.88,0.74,0.15
+"Cannot Lose Them","food_drink",0.35,0.23,0.12
+"Cannot Lose Them","tablets_printing_image",0.14,0.08,0.06
+"Cannot Lose Them","audio",0.42,0.37,0.05
+"Cannot Lose Them","home_comfort_2",0.07,0.02,0.05
+"Cannot Lose Them","christmas_supplies",0.18,0.13,0.04
+"Cannot Lose Them","music",0.07,0.04,0.03
+"Cannot Lose Them","fashio_female_clothing",0.07,0.04,0.03
+"Cannot Lose Them","fashion_male_clothing",0.14,0.11,0.03
+"Cannot Lose Them","books_imported",0.07,0.05,0.02
+"Cannot Lose Them","dvds_blu_ray",0.07,0.06,0.01
+"Cannot Lose Them","home_confort",0.42,0.42,0.01
+"Cannot Lose Them","furniture_bedroom",0.11,0.09,0.01
+"Cannot Lose Them","furniture_mattress_and_upholstery",0.04,0.04,0.00
+"Cannot Lose Them","flowers",0.04,0.03,0.00
+"Cannot Lose Them","fashion_underwear_beach",0.11,0.13,-0.02
+"Cannot Lose Them","costruction_tools_tools",0.07,0.10,-0.03
+"Cannot Lose Them","fashion_shoes",0.21,0.25,-0.04
+"Cannot Lose Them","drinks",0.25,0.30,-0.05
+"Cannot Lose Them","fixed_telephony",0.11,0.23,-0.12
+"Cannot Lose Them","construction_tools_safety",0.04,0.17,-0.13
+"Cannot Lose Them","costruction_tools_garden",0.07,0.20,-0.13
+"Cannot Lose Them","agro_industry_and_commerce",0.04,0.19,-0.15
+"Cannot Lose Them","air_conditioning",0.11,0.26,-0.16
+"Cannot Lose Them","industry_commerce_and_business",0.07,0.25,-0.18
+"Cannot Lose Them","market_place",0.11,0.29,-0.19
+"Cannot Lose Them","kitchen_dining_laundry_garden_furniture",0.07,0.26,-0.19
+"Cannot Lose Them","health_beauty",8.90,9.10,-0.20
+"Cannot Lose Them","home_appliances_2",0.04,0.24,-0.20
+"Cannot Lose Them","home_construction",0.32,0.52,-0.20
+"Cannot Lose Them","books_technical",0.04,0.27,-0.24
+"Cannot Lose Them","furniture_living_room",0.18,0.44,-0.26
+"Cannot Lose Them","small_appliances",0.39,0.65,-0.26
+"Cannot Lose Them","musical_instruments",0.32,0.65,-0.33
+"Cannot Lose Them","construction_tools_construction",0.39,0.78,-0.40
+"Cannot Lose Them","food",0.07,0.47,-0.40
+"Cannot Lose Them","housewares",5.69,6.09,-0.40
+"Cannot Lose Them","pet_shop",1.27,1.79,-0.51
+"Cannot Lose Them","stationery",1.77,2.41,-0.64
+"Cannot Lose Them","luggage_accessories",0.42,1.09,-0.66
+"Cannot Lose Them","auto",3.32,4.04,-0.72
+"Cannot Lose Them","baby",1.98,2.98,-1.00
+"Cannot Lose Them","office_furniture",0.14,1.33,-1.19
+"Cannot Lose Them","computers_accessories",5.34,6.86,-1.52
+"Cannot Lose Them","cool_stuff",1.77,3.80,-2.03
+"Cannot Lose Them","watches_gifts",2.93,5.81,-2.87
+Champions,"housewares",9.94,6.09,3.85
+Champions,"health_beauty",10.99,9.10,1.89
+Champions,"telephony",5.82,4.33,1.48
+Champions,"auto",5.27,4.04,1.23
+Champions,"electronics",3.80,2.69,1.12
+Champions,"home_appliances",1.74,0.74,1.00
+Champions,"construction_tools_construction",1.74,0.78,0.96
+Champions,"books_technical",1.05,0.27,0.78
+Champions,"fashion_bags_accessories",2.61,1.88,0.73
+Champions,"food",1.19,0.47,0.72
+Champions,"books_general_interest",0.96,0.52,0.44
+Champions,"construction_tools_lights",0.60,0.26,0.34
+Champions,"drinks",0.55,0.30,0.25
+Champions,"party_supplies",0.23,0.04,0.19
+Champions,"food_drink",0.41,0.23,0.18
+Champions,"diapers_and_hygiene",0.18,0.03,0.16
+Champions,"christmas_supplies",0.27,0.13,0.14
+Champions,"costruction_tools_tools",0.23,0.10,0.13
+Champions,"cine_photo",0.18,0.07,0.12
+Champions,"small_appliances_home_oven_and_coffee",0.18,0.08,0.11
+Champions,"musical_instruments",0.73,0.65,0.08
+Champions,"kitchen_dining_laundry_garden_furniture",0.32,0.26,0.06
+Champions,"agro_industry_and_commerce",0.23,0.19,0.04
+Champions,"books_imported",0.09,0.05,0.04
+Champions,"dvds_blu_ray",0.09,0.06,0.03
+Champions,"arts_and_craftmanship",0.05,0.02,0.02
+Champions,"fashion_sport",0.05,0.03,0.02
+Champions,"construction_tools_safety",0.18,0.17,0.01
+Champions,"music",0.05,0.04,0.01
+Champions,"baby",2.98,2.98,0.00
+Champions,"audio",0.37,0.37,-0.01
+Champions,"signaling_and_security",0.14,0.15,-0.01
+Champions,"fashion_underwear_beach",0.09,0.13,-0.03
+Champions,"fixed_telephony",0.18,0.23,-0.04
+Champions,"pet_shop",1.74,1.79,-0.05
+Champions,"costruction_tools_garden",0.14,0.20,-0.06
+Champions,"art",0.14,0.21,-0.07
+Champions,"fashion_male_clothing",0.05,0.11,-0.07
+Champions,"market_place",0.18,0.29,-0.11
+Champions,"small_appliances",0.50,0.65,-0.15
+Champions,"stationery",2.24,2.41,-0.17
+Champions,"computers_accessories",6.68,6.86,-0.18
+Champions,"home_appliances_2",0.05,0.24,-0.19
+Champions,"fashion_shoes",0.05,0.25,-0.20
+Champions,"consoles_games",0.87,1.09,-0.22
+Champions,"air_conditioning",0.05,0.26,-0.22
+Champions,"furniture_living_room",0.18,0.44,-0.25
+Champions,"home_construction",0.23,0.52,-0.29
+Champions,"luggage_accessories",0.60,1.09,-0.49
+Champions,"bed_bath_table",9.02,9.65,-0.63
+Champions,"toys",3.21,4.03,-0.83
+Champions,"sports_leisure",6.96,7.86,-0.90
+Champions,"perfumery",2.24,3.27,-1.02
+Champions,"garden_tools",2.29,3.66,-1.37
+Champions,"furniture_decor",4.58,6.62,-2.04
+Champions,"watches_gifts",3.34,5.81,-2.46
+Champions,"cool_stuff",0.87,3.80,-2.93
+"Lost Customers","furniture_decor",12.65,6.62,6.03
+"Lost Customers","bed_bath_table",15.62,9.65,5.97
+"Lost Customers","toys",8.10,4.03,4.07
+"Lost Customers","watches_gifts",7.22,5.81,1.41
+"Lost Customers","perfumery",4.42,3.27,1.15
+"Lost Customers","cool_stuff",4.95,3.80,1.15
+"Lost Customers","home_confort",1.23,0.42,0.81
+"Lost Customers","sports_leisure",8.67,7.86,0.80
+"Lost Customers","furniture_living_room",1.01,0.44,0.57
+"Lost Customers","small_appliances",1.05,0.65,0.40
+"Lost Customers","fashion_bags_accessories",2.28,1.88,0.39
+"Lost Customers","musical_instruments",0.92,0.65,0.27
+"Lost Customers","kitchen_dining_laundry_garden_furniture",0.53,0.26,0.27
+"Lost Customers","home_appliances_2",0.48,0.24,0.24
+"Lost Customers","food_drink",0.44,0.23,0.20
+"Lost Customers","fashion_male_clothing",0.31,0.11,0.19
+"Lost Customers","home_appliances",0.92,0.74,0.18
+"Lost Customers","agro_industry_and_commerce",0.35,0.19,0.16
+"Lost Customers","garden_tools",3.81,3.66,0.14
+"Lost Customers","fashion_underwear_beach",0.26,0.13,0.14
+"Lost Customers","fashion_shoes",0.39,0.25,0.14
+"Lost Customers","home_construction",0.66,0.52,0.14
+"Lost Customers","air_conditioning",0.39,0.26,0.13
+"Lost Customers","office_furniture",1.44,1.33,0.11
+"Lost Customers","la_cuisine",0.09,0.01,0.07
+"Lost Customers","furniture_mattress_and_upholstery",0.09,0.04,0.05
+"Lost Customers","party_supplies",0.09,0.04,0.05
+"Lost Customers","christmas_supplies",0.18,0.13,0.04
+"Lost Customers","market_place",0.31,0.29,0.01
+"Lost Customers","stationery",2.41,2.41,0.00
+"Lost Customers","fixed_telephony",0.22,0.23,-0.01
+"Lost Customers","cine_photo",0.04,0.07,-0.02
+"Lost Customers","audio",0.35,0.37,-0.02
+"Lost Customers","luggage_accessories",1.05,1.09,-0.03
+"Lost Customers","art",0.18,0.21,-0.03
+"Lost Customers","construction_tools_lights",0.22,0.26,-0.04
+"Lost Customers","tablets_printing_image",0.04,0.08,-0.04
+"Lost Customers","books_technical",0.22,0.27,-0.05
+"Lost Customers","costruction_tools_tools",0.04,0.10,-0.06
+"Lost Customers","computers",0.13,0.19,-0.06
+"Lost Customers","food",0.39,0.47,-0.07
+"Lost Customers","costruction_tools_garden",0.13,0.20,-0.07
+"Lost Customers","construction_tools_safety",0.09,0.17,-0.08
+"Lost Customers","construction_tools_construction",0.70,0.78,-0.08
+"Lost Customers","signaling_and_security",0.04,0.15,-0.10
+"Lost Customers","drinks",0.18,0.30,-0.13
+"Lost Customers","pet_shop",1.62,1.79,-0.17
+"Lost Customers","industry_commerce_and_business",0.04,0.25,-0.20
+"Lost Customers","consoles_games",0.83,1.09,-0.25
+"Lost Customers","computers_accessories",6.56,6.86,-0.30
+"Lost Customers","books_general_interest",0.13,0.52,-0.39
+"Lost Customers","baby",2.58,2.98,-0.40
+"Lost Customers","auto",3.50,4.04,-0.54
+"Lost Customers","health_beauty",8.49,9.10,-0.61
+"Lost Customers","housewares",5.08,6.09,-1.01
+"Lost Customers","electronics",1.31,2.69,-1.37
+"Lost Customers","telephony",2.93,4.33,-1.40
+"Loyal Customers","health_beauty",11.58,9.10,2.47
+"Loyal Customers","electronics",4.02,2.69,1.33
+"Loyal Customers","auto",5.01,4.04,0.98
+"Loyal Customers","housewares",7.03,6.09,0.95
+"Loyal Customers","food",1.22,0.47,0.76
+"Loyal Customers","stationery",3.16,2.41,0.75
+"Loyal Customers","pet_shop",2.40,1.79,0.61
+"Loyal Customers","construction_tools_construction",1.34,0.78,0.55
+"Loyal Customers","telephony",4.82,4.33,0.48
+"Loyal Customers","art",0.53,0.21,0.32
+"Loyal Customers","books_technical",0.56,0.27,0.29
+"Loyal Customers","drinks",0.57,0.30,0.26
+"Loyal Customers","bed_bath_table",9.87,9.65,0.23
+"Loyal Customers","baby",3.15,2.98,0.17
+"Loyal Customers","home_construction",0.66,0.52,0.15
+"Loyal Customers","books_general_interest",0.65,0.52,0.12
+"Loyal Customers","cine_photo",0.18,0.07,0.11
+"Loyal Customers","home_appliances",0.85,0.74,0.11
+"Loyal Customers","signaling_and_security",0.23,0.15,0.09
+"Loyal Customers","construction_tools_lights",0.35,0.26,0.09
+"Loyal Customers","costruction_tools_garden",0.26,0.20,0.06
+"Loyal Customers","christmas_supplies",0.19,0.13,0.06
+"Loyal Customers","books_imported",0.11,0.05,0.05
+"Loyal Customers","diapers_and_hygiene",0.07,0.03,0.05
+"Loyal Customers","fashion_bags_accessories",1.94,1.88,0.05
+"Loyal Customers","small_appliances_home_oven_and_coffee",0.11,0.08,0.04
+"Loyal Customers","arts_and_craftmanship",0.06,0.02,0.04
+"Loyal Customers","music",0.07,0.04,0.03
+"Loyal Customers","construction_tools_safety",0.19,0.17,0.03
+"Loyal Customers","food_drink",0.27,0.23,0.03
+"Loyal Customers","furniture_living_room",0.47,0.44,0.03
+"Loyal Customers","party_supplies",0.07,0.04,0.03
+"Loyal Customers","industry_commerce_and_business",0.28,0.25,0.03
+"Loyal Customers","flowers",0.05,0.03,0.02
+"Loyal Customers","costruction_tools_tools",0.12,0.10,0.02
+"Loyal Customers","fashion_childrens_clothes",0.01,0.01,0.00
+"Loyal Customers","home_comfort_2",0.02,0.02,0.00
+"Loyal Customers","fashio_female_clothing",0.02,0.04,-0.01
+"Loyal Customers","la_cuisine",0.01,0.01,-0.01
+"Loyal Customers","fashion_sport",0.01,0.03,-0.02
+"Loyal Customers","furniture_mattress_and_upholstery",0.02,0.04,-0.02
+"Loyal Customers","kitchen_dining_laundry_garden_furniture",0.23,0.26,-0.02
+"Loyal Customers","dvds_blu_ray",0.04,0.06,-0.02
+"Loyal Customers","fashion_male_clothing",0.08,0.11,-0.03
+"Loyal Customers","tablets_printing_image",0.05,0.08,-0.04
+"Loyal Customers","audio",0.32,0.37,-0.06
+"Loyal Customers","agro_industry_and_commerce",0.12,0.19,-0.07
+"Loyal Customers","fashion_underwear_beach",0.05,0.13,-0.08
+"Loyal Customers","furniture_bedroom",0.02,0.09,-0.08
+"Loyal Customers","musical_instruments",0.56,0.65,-0.09
+"Loyal Customers","fixed_telephony",0.12,0.23,-0.11
+"Loyal Customers","air_conditioning",0.15,0.26,-0.12
+"Loyal Customers","market_place",0.16,0.29,-0.13
+"Loyal Customers","fashion_shoes",0.11,0.25,-0.15
+"Loyal Customers","home_appliances_2",0.08,0.24,-0.16
+"Loyal Customers","computers",0.01,0.19,-0.18
+"Loyal Customers","home_confort",0.24,0.42,-0.18
+"Loyal Customers","small_appliances",0.45,0.65,-0.20
+"Loyal Customers","consoles_games",0.87,1.09,-0.22
+"Loyal Customers","computers_accessories",6.48,6.86,-0.38
+"Loyal Customers","luggage_accessories",0.70,1.09,-0.39
+"Loyal Customers","perfumery",2.79,3.27,-0.48
+"Loyal Customers","watches_gifts",4.89,5.81,-0.91
+"Loyal Customers","sports_leisure",6.76,7.86,-1.11
+"Loyal Customers","office_furniture",0.20,1.33,-1.13
+"Loyal Customers","garden_tools",2.39,3.66,-1.27
+"Loyal Customers","toys",2.73,4.03,-1.30
+"Loyal Customers","furniture_decor",5.03,6.62,-1.59
+"Loyal Customers","cool_stuff",1.47,3.80,-2.33
+"New Customers","watches_gifts",7.51,5.81,1.71
+"New Customers","auto",4.87,4.04,0.83
+"New Customers","electronics",3.30,2.69,0.61
+"New Customers","computers_accessories",7.35,6.86,0.48
+"New Customers","home_appliances",1.22,0.74,0.48
+"New Customers","health_beauty",9.54,9.10,0.43
+"New Customers","sports_leisure",8.21,7.86,0.34
+"New Customers","industry_commerce_and_business",0.55,0.25,0.30
+"New Customers","furniture_decor",6.90,6.62,0.28
+"New Customers","construction_tools_construction",1.04,0.78,0.26
+"New Customers","housewares",6.34,6.09,0.25
+"New Customers","baby",3.23,2.98,0.25
+"New Customers","home_construction",0.74,0.52,0.23
+"New Customers","construction_tools_lights",0.44,0.26,0.18
+"New Customers","pet_shop",1.96,1.79,0.18
+"New Customers","musical_instruments",0.82,0.65,0.17
+"New Customers","books_technical",0.42,0.27,0.15
+"New Customers","drinks",0.45,0.30,0.14
+"New Customers","art",0.35,0.21,0.14
+"New Customers","office_furniture",1.46,1.33,0.13
+"New Customers","construction_tools_safety",0.28,0.17,0.12
+"New Customers","books_general_interest",0.64,0.52,0.11
+"New Customers","food",0.56,0.47,0.10
+"New Customers","home_appliances_2",0.32,0.24,0.08
+"New Customers","audio",0.45,0.37,0.08
+"New Customers","signaling_and_security",0.21,0.15,0.07
+"New Customers","small_appliances_home_oven_and_coffee",0.15,0.08,0.07
+"New Customers","cine_photo",0.12,0.07,0.06
+"New Customers","costruction_tools_tools",0.16,0.10,0.06
+"New Customers","air_conditioning",0.31,0.26,0.05
+"New Customers","agro_industry_and_commerce",0.22,0.19,0.03
+"New Customers","music",0.07,0.04,0.03
+"New Customers","small_appliances",0.68,0.65,0.03
+"New Customers","food_drink",0.26,0.23,0.02
+"New Customers","costruction_tools_garden",0.22,0.20,0.02
+"New Customers","flowers",0.04,0.03,0.01
+"New Customers","books_imported",0.06,0.05,0.01
+"New Customers","diapers_and_hygiene",0.04,0.03,0.01
+"New Customers","arts_and_craftmanship",0.03,0.02,0.01
+"New Customers","fashion_childrens_clothes",0.01,0.01,0.00
+"New Customers","dvds_blu_ray",0.06,0.06,0.00
+"New Customers","la_cuisine",0.02,0.01,0.00
+"New Customers","christmas_supplies",0.13,0.13,-0.01
+"New Customers","cds_dvds_musicals",0.01,0.01,-0.01
+"New Customers","furniture_bedroom",0.08,0.09,-0.01
+"New Customers","fashion_sport",0.02,0.03,-0.01
+"New Customers","party_supplies",0.03,0.04,-0.01
+"New Customers","furniture_mattress_and_upholstery",0.02,0.04,-0.02
+"New Customers","home_comfort_2",0.01,0.02,-0.02
+"New Customers","fashio_female_clothing",0.02,0.04,-0.02
+"New Customers","kitchen_dining_laundry_garden_furniture",0.22,0.26,-0.04
+"New Customers","fashion_underwear_beach",0.08,0.13,-0.05
+"New Customers","fixed_telephony",0.17,0.23,-0.05
+"New Customers","tablets_printing_image",0.02,0.08,-0.06
+"New Customers","fashion_shoes",0.19,0.25,-0.06
+"New Customers","market_place",0.21,0.29,-0.08
+"New Customers","furniture_living_room",0.35,0.44,-0.09
+"New Customers","computers",0.09,0.19,-0.09
+"New Customers","fashion_male_clothing",0.02,0.11,-0.09
+"New Customers","fashion_bags_accessories",1.75,1.88,-0.13
+"New Customers","home_confort",0.29,0.42,-0.13
+"New Customers","garden_tools",3.47,3.66,-0.19
+"New Customers","luggage_accessories",0.79,1.09,-0.29
+"New Customers","telephony",4.02,4.33,-0.31
+"New Customers","bed_bath_table",9.26,9.65,-0.39
+"New Customers","stationery",1.99,2.41,-0.42
+"New Customers","consoles_games",0.66,1.09,-0.43
+"New Customers","perfumery",2.64,3.27,-0.62
+"New Customers","cool_stuff",3.07,3.80,-0.73
+"New Customers","toys",3.11,4.03,-0.92
+Others,"watches_gifts",6.98,5.81,1.17
+Others,"computers_accessories",7.89,6.86,1.03
+Others,"stationery",3.23,2.41,0.82
+Others,"health_beauty",9.51,9.10,0.40
+Others,"construction_tools_construction",1.09,0.78,0.31
+Others,"office_furniture",1.62,1.33,0.29
+Others,"electronics",2.97,2.69,0.28
+Others,"home_construction",0.76,0.52,0.25
+Others,"auto",4.24,4.04,0.20
+Others,"agro_industry_and_commerce",0.33,0.19,0.14
+Others,"construction_tools_lights",0.39,0.26,0.14
+Others,"home_appliances_2",0.34,0.24,0.10
+Others,"musical_instruments",0.73,0.65,0.08
+Others,"furniture_bedroom",0.16,0.09,0.06
+Others,"kitchen_dining_laundry_garden_furniture",0.32,0.26,0.06
+Others,"perfumery",3.32,3.27,0.06
+Others,"costruction_tools_garden",0.25,0.20,0.05
+Others,"furniture_mattress_and_upholstery",0.09,0.04,0.05
+Others,"computers",0.24,0.19,0.05
+Others,"construction_tools_safety",0.22,0.17,0.05
+Others,"industry_commerce_and_business",0.30,0.25,0.05
+Others,"drinks",0.33,0.30,0.03
+Others,"costruction_tools_tools",0.14,0.10,0.03
+Others,"luggage_accessories",1.12,1.09,0.03
+Others,"small_appliances_home_oven_and_coffee",0.11,0.08,0.03
+Others,"christmas_supplies",0.16,0.13,0.02
+Others,"party_supplies",0.05,0.04,0.01
+Others,"books_imported",0.06,0.05,0.01
+Others,"signaling_and_security",0.16,0.15,0.01
+Others,"baby",2.99,2.98,0.01
+Others,"flowers",0.04,0.03,0.01
+Others,"fashion_underwear_beach",0.13,0.13,0.00
+Others,"arts_and_craftmanship",0.03,0.02,0.00
+Others,"air_conditioning",0.26,0.26,0.00
+Others,"furniture_living_room",0.42,0.44,-0.01
+Others,"cds_dvds_musicals",0.00,0.01,-0.01
+Others,"home_comfort_2",0.01,0.02,-0.01
+Others,"diapers_and_hygiene",0.01,0.03,-0.01
+Others,"fashion_sport",0.01,0.03,-0.02
+Others,"music",0.02,0.04,-0.02
+Others,"tablets_printing_image",0.06,0.08,-0.02
+Others,"small_appliances",0.61,0.65,-0.03
+Others,"fashio_female_clothing",0.01,0.04,-0.03
+Others,"audio",0.33,0.37,-0.04
+Others,"cine_photo",0.03,0.07,-0.04
+Others,"dvds_blu_ray",0.02,0.06,-0.04
+Others,"fixed_telephony",0.18,0.23,-0.05
+Others,"food_drink",0.19,0.23,-0.05
+Others,"fashion_male_clothing",0.06,0.11,-0.05
+Others,"art",0.15,0.21,-0.06
+Others,"books_technical",0.20,0.27,-0.07
+Others,"sports_leisure",7.79,7.86,-0.07
+Others,"market_place",0.20,0.29,-0.10
+Others,"books_general_interest",0.42,0.52,-0.10
+Others,"fashion_shoes",0.14,0.25,-0.11
+Others,"home_confort",0.31,0.42,-0.11
+Others,"cool_stuff",3.63,3.80,-0.17
+Others,"food",0.30,0.47,-0.17
+Others,"pet_shop",1.58,1.79,-0.20
+Others,"consoles_games",0.88,1.09,-0.20
+Others,"home_appliances",0.53,0.74,-0.20
+Others,"garden_tools",3.30,3.66,-0.36
+Others,"housewares",5.65,6.09,-0.44
+Others,"fashion_bags_accessories",1.33,1.88,-0.55
+Others,"furniture_decor",6.03,6.62,-0.59
+Others,"telephony",3.68,4.33,-0.65
+Others,"bed_bath_table",8.97,9.65,-0.68
+Others,"toys",3.11,4.03,-0.92

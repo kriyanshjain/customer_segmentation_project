@@ -1,0 +1,8 @@
+customer_segment,segment_size,avg_clv,total_segment_value,avg_orders,repeat_buyers_in_segment,repeat_rate_in_segment
+"Lost Customers",2285,304.90,696693.99,1.4,762,33.35
+Others,23585,213.74,5041043.26,1.0,604,2.56
+"New Customers",17902,175.26,3137556.36,1.1,1201,6.71
+"At Risk",32227,163.34,5263890.70,1.0,0,0.00
+"Loyal Customers",12345,76.63,946050.97,1.0,0,0.00
+"Cannot Lose Them",2830,75.71,214272.38,1.1,234,8.27
+Champions,2184,55.07,120266.09,1.0,0,0.00

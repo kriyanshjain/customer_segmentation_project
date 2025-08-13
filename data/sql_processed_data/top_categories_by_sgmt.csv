@@ -1,0 +1,36 @@
+customer_segment,product_category_name_english,total_revenue,unique_customers,avg_order_value,revenue_rank,customer_rank
+"At Risk","bed_bath_table",447406.500,3142,114.4847748,1,1
+"At Risk","health_beauty",423692.660,2434,154.2383182,2,3
+"At Risk","watches_gifts",403001.720,1505,239.7392742,3,9
+"At Risk","sports_leisure",397134.350,2612,129.6976976,4,2
+"At Risk","cool_stuff",376403.760,1775,192.7310599,5,7
+"Cannot Lose Them","bed_bath_table",28304.390,320,76.4983514,1,1
+"Cannot Lose Them","health_beauty",20591.110,252,73.0181206,2,2
+"Cannot Lose Them","sports_leisure",17249.220,238,65.8367176,3,3
+"Cannot Lose Them","garden_tools",16793.260,207,71.1578814,4,5
+"Cannot Lose Them","toys",16639.830,196,81.9696059,5,6
+Champions,"health_beauty",13472.530,240,53.6754183,1,1
+Champions,"bed_bath_table",12795.980,197,61.2247847,2,3
+Champions,"housewares",11519.410,217,49.0187660,3,2
+Champions,"sports_leisure",8878.450,152,53.4846386,4,4
+Champions,"computers_accessories",7468.530,146,49.4604636,5,5
+"Lost Customers","bed_bath_table",82678.990,357,117.1090510,1,1
+"Lost Customers","furniture_decor",65049.220,289,112.5419031,2,2
+"Lost Customers","health_beauty",61938.710,194,204.4181848,3,4
+"Lost Customers","watches_gifts",58080.830,165,302.5043229,4,6
+"Lost Customers","sports_leisure",55549.610,198,171.9802167,5,3
+"Loyal Customers","health_beauty",113089.920,1429,74.5483982,1,1
+"Loyal Customers","bed_bath_table",101432.990,1219,76.5532000,2,2
+"Loyal Customers","sports_leisure",66573.790,834,74.1356236,3,4
+"Loyal Customers","housewares",63950.360,868,66.2012008,4,3
+"Loyal Customers","computers_accessories",59269.190,800,71.0661751,5,5
+"New Customers","watches_gifts",319033.720,1345,208.5187712,1,4
+"New Customers","health_beauty",282693.820,1707,141.2762719,2,1
+"New Customers","bed_bath_table",245079.730,1658,109.9012242,3,2
+"New Customers","sports_leisure",229860.500,1469,130.0851726,4,3
+"New Customers","computers_accessories",219717.180,1315,135.1274170,5,5
+Others,"health_beauty",540691.540,2242,203.1911086,1,1
+Others,"watches_gifts",469759.420,1646,250.8058836,2,5
+Others,"sports_leisure",384680.900,1838,170.5901996,3,4
+Others,"bed_bath_table",374880.650,2115,129.1800999,4,2
+Others,"computers_accessories",365470.310,1861,149.9673000,5,3

@@ -1,0 +1,6 @@
+clv_category,customer_count,percentage,avg_clv_in_category,total_revenue_contribution,revenue_percentage
+"High Value (1000+)",1149,1.23,1584.09,1820118.11,11.80
+"Medium-High Value (500-999)",3115,3.34,679.48,2116583.61,13.73
+"Medium Value (200-499)",15722,16.84,291.66,4585469.77,29.74
+"Low-Medium Value (50-199)",57947,62.07,109.20,6327826.68,41.04
+"Low Value (0-49)",15425,16.52,36.94,569775.58,3.70

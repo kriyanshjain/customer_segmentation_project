@@ -1,0 +1,35 @@
+customer_segment,product_id,product_category_name,total_customers,repeat_customers,repurchase_rate,repurchase_rate_formatted,avg_purchases_per_customer,avg_days_between_purchases,repurchase_rank
+"At Risk",b532349fe46b38fbc7bb3914c1bdae07,moveis_decoracao,28,21,75.00,75.00%,2.4,0,1
+"At Risk",1bfb290d7273a442c874dbe74b4abae6,moveis_escritorio,10,6,60.00,60.00%,1.8,0,2
+"At Risk",9ecadb84c81da840dbf3564378b586e9,moveis_decoracao,12,7,58.33,58.33%,1.8,0,3
+"At Risk",569ffd16f8032478cbeb9800f2e94ba0,moveis_decoracao,20,10,50.00,50.00%,1.7,0,4
+"At Risk",c7fd13b5e515bffdab855d0812842edb,moveis_decoracao,13,6,46.15,46.15%,2.1,0,5
+"Cannot Lose Them",53759a2ecddad2bb87a079a1f1519f73,ferramentas_jardim,33,5,15.15,15.15%,1.2,0,1
+"Cannot Lose Them",368c6c730842d78016ad823897a372db,ferramentas_jardim,29,4,13.79,13.79%,1.1,0,2
+"Cannot Lose Them",422879e10f46682990de24d770e7f83d,ferramentas_jardim,46,6,13.04,13.04%,1.1,0,3
+"Cannot Lose Them",7ce94ab189134e2d3c05f496d635419c,eletronicos,11,1,9.09,9.09%,1.1,0,4
+"Cannot Lose Them",389d119b48cf3043d311335e499d9c6b,ferramentas_jardim,36,3,8.33,8.33%,1.1,0,5
+Champions,aca2eb7d00ea1a7b8ebd4e68314663af,moveis_decoracao,16,0,0.00,0.00%,1.0,0,1
+Champions,145978af3e89b318be0b717a0953649a,informatica_acessorios,12,0,0.00,0.00%,1.0,0,2
+Champions,a92930c327948861c015c919a0bcb4a8,relogios_presentes,12,0,0.00,0.00%,1.0,0,3
+Champions,054515fd15bc1a2029f10de97ffa9120,esporte_lazer,10,0,0.00,0.00%,1.0,0,4
+"Lost Customers",389d119b48cf3043d311335e499d9c6b,ferramentas_jardim,11,6,54.55,54.55%,1.8,35,1
+"Lost Customers",53759a2ecddad2bb87a079a1f1519f73,ferramentas_jardim,13,6,46.15,46.15%,1.5,16,2
+"Lost Customers",431d674f9a4fbd0957ecf6ba3fcb6899,telefonia,12,5,41.67,41.67%,1.4,24,3
+"Lost Customers",223d34a3d9334039f5ff9511dc044bbb,telefonia,12,2,16.67,16.67%,1.2,4,4
+"Lost Customers",154e7e31ebfa092203795c972e5804a6,beleza_saude,14,2,14.29,14.29%,1.2,0,5
+"Loyal Customers",b532349fe46b38fbc7bb3914c1bdae07,moveis_decoracao,16,13,81.25,81.25%,1.9,0,1
+"Loyal Customers",c50ca07e9e4db9ea5011f06802c0aea0,beleza_saude,11,4,36.36,36.36%,1.5,0,2
+"Loyal Customers",8b50a72d52d7a91fb19d19fbe069e2f2,utilidades_domesticas,14,4,28.57,28.57%,1.3,0,3
+"Loyal Customers",060c17562f97e5bb60bc0dfa4dd5b3f2,informatica_acessorios,13,3,23.08,23.08%,1.2,0,4
+"Loyal Customers",054515fd15bc1a2029f10de97ffa9120,esporte_lazer,22,5,22.73,22.73%,1.2,0,5
+"New Customers",9ecadb84c81da840dbf3564378b586e9,moveis_decoracao,11,9,81.82,81.82%,1.9,0,1
+"New Customers",eb8c629f70275fd1c4f809116cce1efc,moveis_decoracao,16,12,75.00,75.00%,2.1,0,2
+"New Customers",b532349fe46b38fbc7bb3914c1bdae07,moveis_decoracao,19,14,73.68,73.68%,2.3,17,3
+"New Customers",3eef0cb94ba82de806bb30ab743c7655,moveis_escritorio,13,9,69.23,69.23%,2.3,0,4
+"New Customers",928e52a9ad53a294fdcc91bcf59d1751,utilidades_domesticas,11,6,54.55,54.55%,3.0,25,5
+Others,3eef0cb94ba82de806bb30ab743c7655,moveis_escritorio,11,8,72.73,72.73%,2.3,0,1
+Others,dbb67791e405873b259e4656bf971246,informatica_acessorios,21,10,47.62,47.62%,1.6,0,2
+Others,2b7aa376a6e728560bddb5558cc48e89,moveis_escritorio,11,5,45.45,45.45%,1.5,0,3
+Others,704ef63ad0ac345842ea734060a83db2,cama_mesa_banho,15,6,40.00,40.00%,1.5,0,4
+Others,634256dbcd184b3757ffd7632c9fe52a,beleza_saude,10,4,40.00,40.00%,2.0,0,5
